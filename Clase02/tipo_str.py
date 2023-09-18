@@ -5,4 +5,7 @@
 variable = ' Adios'
 mensaje = 'Hola ''Alumnos' + variable
 mensaje += ', Terminamos'
-print(mensaje)
+# print(mensaje)
+
+# Usamos la clase hekp para ayuda o documentacion (built-in)
+help(str)
